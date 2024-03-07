@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - I earned my undergraduate degree at *Beihang University*, and am pursuing a graduate degree at *Pascal Lab, Nanjing University* (expected to graduate in 2026.06).
-- Currently working on EDA / Program Analysis / IDE Developing
-- Interested in PL theory (type system and formal semantics), Compilers, Hardware and Emacs
+- Currently working on EDA / Program Analysis / IDE Developing.
+- Interested in PL, Compilers, VM, Hardware and Emacs.
 
 -----------
 
