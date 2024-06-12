@@ -6,5 +6,5 @@
 
 -----------
 
-- ✏️ [My Blog](https://github.com/roife/roife.github.io)
+- ✏️ [My Blog](https://github.com/roife/roife.github.io) (in Chinese)
 - 📝 [My Resume](https://github.com/roife/resume)
