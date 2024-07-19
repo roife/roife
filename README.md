@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Graduated with a bachelor's degree at *Beihang University*, currently pursuing a master's degree at *Pascal Lab, Nanjing University*.
+- Graduated from *Beihang University*, and currently pursuing a master's degree at *Pascal Lab, Nanjing University*.
 - Currently working on Compilers / Program Analysis, also a member of the **rust-analyzer contributors team**.
 - Interested in PL, Compilers and Emacs.
 
