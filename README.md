@@ -7,4 +7,4 @@
 -----------
 
 - ✏️ [My Blog](https://github.com/roife/roife.github.io) (in Chinese)
-- 📝 [My Resume](https://github.com/roife/resume) (in English) [我的简历](https://github.com/roife/resume/blob/master/resume-cn.pdf) (in Chinese)
+- 📝 [My Resume](https://github.com/roife/resume/blob/master/resume-en-post.pdf) (in English) [我的简历](https://github.com/roife/resume/blob/master/resume-cn-post.pdf) (in Chinese)
