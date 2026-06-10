@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- Graduated from *Beihang University*, and currently pursuing a master's degree at *Pascal Lab, Nanjing University*.
-- Currently working on Compilers / Program Analysis, also a member of the **rust-analyzer contributors team**.
+- Graduated from *Beihang University* (BSc) and *Nanjing University* (MSc, Pascal Lab).
+- Currently working at **Tencent**, focusing on Compilers/StaticAnalysis. Also a member of the **rust-analyzer contributors team**.
 - Interested in PL, Compilers and Emacs.
 
 -----------
